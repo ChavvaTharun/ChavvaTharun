@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="left" alt="Coding" width="350" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
-<p align="left" gap="10"> <img src="https://komarev.com/ghpvc/?username=chavvatharun&label=Profile%20views&color=0e75b6&style=flat" alt="chavvatharun" /> </p>
+<p align="left" margin="10"> <img src="https://komarev.com/ghpvc/?username=chavvatharun&label=Profile%20views&color=0e75b6&style=flat" alt="chavvatharun" /> </p>
 
 - 🌱 I’m currently learning **React ,SpringBoot , Bootstrap**
 
