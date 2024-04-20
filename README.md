@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chavva Tharun</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="left"><img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKAjlB0CNm_pUPY1q9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYXNzaXN0;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA2dsbXM0NW9UU28ySzFaMUpySThZa0EEbl9yc2x0AzAEbl9zdWdnAzEwBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMwRwcXN0cgNhbmltYXRlZCBjb2RpbmcgBHBxc3RybAMxNgRxc3RybAMzMARxdWVyeQNhbmltYXRlZCUyMGNvZGluZyUyMGdpZiUyMGZvciUyMGdpdGh1YgR0X3N0bXADMTcxMzYyMzExMgR1c2VfY2FzZQM-?p=animated+coding+gif+for+github&fr=mcafee&fr2=sa-gp-search&ei=UTF-8&x=wrt&type=E210IN885G0#id=23&iurl=https%3A%2F%2Findoanalytica.com%2Fstatic%2Fimages%2Fdata-science-5.gif&action=click">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavvatharun&label=Profile%20views&color=0e75b6&style=flat" alt="chavvatharun" /> </p>
 
