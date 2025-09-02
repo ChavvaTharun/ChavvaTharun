@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tharun-chavva-061b58249](https://www.linkedin.com/in/tharun-chavva-061b58249)
 
-- ⚡ Fun fact **I love music,I love pets**
+- ⚡ Fun fact **I love music,I love pets, I Love Traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
