@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavvatharun&label=Profile%20views&color=0e75b6&style=flat" alt="chavvatharun" /> </p>
 
-- 🌱 I’m currently learning **React ,SpringBoot , Bootstrap**
+- I'm a **Front-End Developer** passionate about building modern, responsive web applications. 
 
-- 💬 Ask me about **Html,CSS,Java Script,basic React ,basic java,**
+- 🌱 I’m currently learning **React ,Next-JS, TypeScript, **
+
+- 💬 Ask me about **Html,CSS,Java Script,basic React ,basic Next-Js, Basic Java and Python,**
 
 - 📫 How to reach me **tharunchintu100@gmail.com**
 
