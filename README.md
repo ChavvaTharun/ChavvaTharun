@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Html,CSS,Java Script,basic React ,basic Next-Js, Basic Java and Python,**
 
-- 📫 How to reach me **tharunchintu100@gmail.com**
+- 📫 How to reach me **chavvatharun9@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tharun-chavva-061b58249](https://www.linkedin.com/in/tharun-chavva-061b58249)
 
